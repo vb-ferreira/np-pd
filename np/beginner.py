@@ -636,7 +636,7 @@ def _(mo):
         r"""
     Implemente uma função chamada `make_roux(n)` que insere `n`, o tamanho desejado do array, e gera como saída o array "roux" correspondente. Teste-a nos exemplos acima.
 
-    **Obs**: Se o array for par inicia com zero, se for ímpar, com um quadrado. 
+    **Obs**: Se o array for par inicia com zero, se for ímpar, com um quadrado.
     """
     )
     return
